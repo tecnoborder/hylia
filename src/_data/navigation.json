@@ -1,17 +1,17 @@
 {
   "items": [
     {
-      "text": "All Posts",
+      "text": "Home",
       "url": "/",
       "external": false
     },
     {
-      "text": "About",
+      "text": "All Posts",
       "url": "https://github.com/hankchizljaw/hylia",
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "About",
       "url": "/contact",
       "external": false
     }
