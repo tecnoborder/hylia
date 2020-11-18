@@ -1,6 +1,6 @@
 ---
 layout: home
-title: adry.health
+title: Adriano Fontanari
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: Adriano Fontanari - Health Tech Innovation
