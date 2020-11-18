@@ -93,4 +93,5 @@ fields:
     name: serif
     label: serif
 pages:
+- src/_data/navigation.json
 - src/_data/tokens.json
