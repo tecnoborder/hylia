@@ -19,6 +19,10 @@ sections:
   path: src/_data/navigation.json
   label: Navigation
 - type: document
+  path: src/_data/site.json
+  label: Site settings
+  match: "**/*"
+- type: document
   path: src/_data/tokens.json
   label: Theme settings
 upload_dir: src/images
